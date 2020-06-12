@@ -12,3 +12,6 @@ See the dashboards in action here:
 - https://carrollrm.shinyapps.io/COVIDmod/
 
 - https://carrollrm.shinyapps.io/COVID19_US_NC_CF/
+
+UNCW Data Science COVID-19 Tracking
+https://uncw.edu/datascience/covid19.html
