@@ -1,0 +1,12 @@
+name: COVID19ts
+title: COVID19ts
+username:
+account: carrollrm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2117238
+bundleId: 3224052
+url: https://carrollrm.shinyapps.io/COVID19ts/
+when: 1591202648.45895
+asMultiple: FALSE
+asStatic: FALSE
